@@ -8,7 +8,7 @@
 0년차
 
 ## 스킬
-희망 배우고 싶은 언어는 C# , javascript, python입니다.
+배우고 싶은 언어는 C# , javascript, python입니다.
 
 
 <!--
