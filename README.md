@@ -19,15 +19,15 @@
 
 ## 프로젝트 한눈에 보기
 
-**상세 소개**에서는 프로젝트의 기능·담당 업무·문제 해결 과정을, **코드**에서는 개인 또는 팀 저장소를 확인할 수 있습니다.
+**상세 소개**를 누르면 포트폴리오 메인으로 이동합니다. 사이트에서 프로젝트별 기능·담당 업무·문제 해결 과정을 확인할 수 있으며, **코드**에서는 개인 또는 팀 저장소를 확인할 수 있습니다.
 
 | 프로젝트 | 소개 | 참여 형태 | 링크 |
 | --- | --- | --- | --- |
-| PetPalace | 반려동물 호텔 예약·결제 웹 서비스 | 개인 개발 | [상세 소개](https://kwkim2013.github.io/projects/pet-palace) · [코드](https://github.com/kimkale12/petpalace) |
-| CGI_MOA | 생성형 이미지 합성 결과 평가 서비스 | 팀 프로젝트 | [상세 소개](https://kwkim2013.github.io/projects/cgi-moa) · [코드](https://github.com/Jenny5789/CGI_MOA) |
-| 자동차 번호판 인식 시스템 | 번호판 검출·OCR 및 실시간 모니터링 | 5인 팀 | [상세 소개](https://kwkim2013.github.io/projects/license-plate-recognition) · [코드](https://github.com/JHKINI/nextframe_opencv) |
-| 난폭운전 감지 시스템 | 도로 객체 인식 및 주행 위반 분석 | 5인 팀 | [상세 소개](https://kwkim2013.github.io/projects/reckless-driving-detection) · [코드](https://github.com/addinedu-ros-6th/deeplearning-repo-1) |
-| 스마트 화재 대응 시스템 | 센서 기반 경보 및 주차 관제 | 5인 팀 | [상세 소개](https://kwkim2013.github.io/projects/smart-fire-response) · [코드](https://github.com/addinedu-ros-6th/iot-repo-5) |
+| PetPalace | 반려동물 호텔 예약·결제 웹 서비스 | 개인 개발 | [상세 소개](https://kwkim2013.github.io/) · [코드](https://github.com/kimkale12/petpalace) |
+| CGI_MOA | 생성형 이미지 합성 결과 평가 서비스 | 팀 프로젝트 | [상세 소개](https://kwkim2013.github.io/) · [코드](https://github.com/Jenny5789/CGI_MOA) |
+| 자동차 번호판 인식 시스템 | 번호판 검출·OCR 및 실시간 모니터링 | 5인 팀 | [상세 소개](https://kwkim2013.github.io/) · [코드](https://github.com/JHKINI/nextframe_opencv) |
+| 난폭운전 감지 시스템 | 도로 객체 인식 및 주행 위반 분석 | 5인 팀 | [상세 소개](https://kwkim2013.github.io/) · [코드](https://github.com/addinedu-ros-6th/deeplearning-repo-1) |
+| 스마트 화재 대응 시스템 | 센서 기반 경보 및 주차 관제 | 5인 팀 | [상세 소개](https://kwkim2013.github.io/) · [코드](https://github.com/addinedu-ros-6th/iot-repo-5) |
 
 ## 프로젝트별 안내
 
@@ -40,7 +40,7 @@
 - **문제 해결:** 프론트엔드와 백엔드에 예약 날짜 검증을 적용하고, 결제 준비 성공 시에만 결제 화면으로 이동하도록 예외 처리를 개선했습니다.
 - **기술:** Vue 3, Pinia, Node.js, Express, PostgreSQL, Sequelize, JWT, Toss Payments
 
-[포트폴리오 상세 보기 →](https://kwkim2013.github.io/projects/pet-palace) · [GitHub 저장소 →](https://github.com/kimkale12/petpalace)
+[포트폴리오 상세 보기 →](https://kwkim2013.github.io/) · [GitHub 저장소 →](https://github.com/kimkale12/petpalace)
 
 ### 2. CGI_MOA
 
@@ -51,7 +51,7 @@
 - **협업:** 테스트 시나리오를 정리하고 기능 검증 결과와 이슈를 팀원들과 공유했습니다.
 - **사용 기술·도구:** JavaScript, REST API, Bruno, GitHub
 
-[포트폴리오 상세 보기 →](https://kwkim2013.github.io/projects/cgi-moa) · [GitHub 저장소 →](https://github.com/Jenny5789/CGI_MOA)
+[포트폴리오 상세 보기 →](https://kwkim2013.github.io/) · [GitHub 저장소 →](https://github.com/Jenny5789/CGI_MOA)
 
 ### 3. 자동차 번호판 인식 시스템
 
@@ -62,7 +62,7 @@
 - **문제 해결:** 5프레임 다수결 투표를 적용해 프레임별 인식 결과를 안정화하고 중복 저장을 제거했습니다.
 - **기술:** Python, YOLO, EasyOCR, OpenCV, PySide6
 
-[포트폴리오 상세 보기 →](https://kwkim2013.github.io/projects/license-plate-recognition) · [GitHub 저장소 →](https://github.com/JHKINI/nextframe_opencv)
+[포트폴리오 상세 보기 →](https://kwkim2013.github.io/) · [GitHub 저장소 →](https://github.com/JHKINI/nextframe_opencv)
 
 ### 4. 난폭운전 감지 시스템
 
@@ -73,7 +73,7 @@
 - **문제 해결:** 라벨링 기준과 학습 전처리를 개선하고, 비동기 GUI 처리와 로깅 경량화로 표시 지연을 줄였습니다.
 - **기술:** Python, YOLOv8, OpenCV, PyQt5, MySQL, Ubuntu, AWS
 
-[포트폴리오 상세 보기 →](https://kwkim2013.github.io/projects/reckless-driving-detection) · [GitHub 저장소 →](https://github.com/addinedu-ros-6th/deeplearning-repo-1)
+[포트폴리오 상세 보기 →](https://kwkim2013.github.io/) · [GitHub 저장소 →](https://github.com/addinedu-ros-6th/deeplearning-repo-1)
 
 ### 5. 스마트 화재 대응 시스템
 
@@ -84,7 +84,7 @@
 - **문제 해결:** 수집 모듈을 멀티스레드로 구성하고 ROS2 통신 구조와 알람 조건을 개선해 센서 처리 지연과 오탐을 줄였습니다.
 - **기술:** Python, Arduino, ROS2, MQTT, MySQL, PyQt5, Node.js, Ubuntu
 
-[포트폴리오 상세 보기 →](https://kwkim2013.github.io/projects/smart-fire-response) · [GitHub 저장소 →](https://github.com/addinedu-ros-6th/iot-repo-5)
+[포트폴리오 상세 보기 →](https://kwkim2013.github.io/) · [GitHub 저장소 →](https://github.com/addinedu-ros-6th/iot-repo-5)
 
 ## 사용 기술
 
