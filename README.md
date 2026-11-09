@@ -35,7 +35,6 @@
 <td><b>Frontend</b></td>
 <td>
 <img alt="React" src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/>
-<img alt="Pinia" src="https://img.shields.io/badge/Pinia-FFD859?style=flat-square"/>
 </td>
 </tr>
 <tr>
