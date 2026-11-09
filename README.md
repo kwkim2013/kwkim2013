@@ -34,7 +34,7 @@
 <tr>
 <td><b>Frontend</b></td>
 <td>
-<img alt="Vue 3" src="https://img.shields.io/badge/Vue%203-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white"/>
+<img alt="React" src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/>
 <img alt="Pinia" src="https://img.shields.io/badge/Pinia-FFD859?style=flat-square"/>
 </td>
 </tr>
