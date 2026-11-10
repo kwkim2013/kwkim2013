@@ -89,7 +89,7 @@
 
 | 프로젝트 | 소개 | 역할 · 핵심 내용 | 기술 |
 |---|---|---|---|
-| **[CivicLink](https://github.com/kwkim2013/CivicLink)** | 공공민원 데이터를 구조화하고 담당자 검토를 지원하는 AI 업무 서비스<br/>`팀` | **서비스 설계 · 백엔드·프론트엔드 연동 · DB 구축**<br/>민원 등록·조회, AI 분류 및 답변 초안 생성, 결정례 검색<br/>PostgreSQL 기반 데이터 관리와 Ollama 임베딩을 활용한 검색 흐름 구현 | Java, Spring MVC, Gradle, React, PostgreSQL, Ollama, Apache Tomcat |
+| **[CivicLink](https://github.com/kwkim2013/CivicLink)** | 공공민원 데이터를 구조화하고 담당자 검토를 지원하는 AI 업무 서비스<br/>`개인` | **서비스 설계 · 백엔드·프론트엔드 연동 · DB 구축**<br/>민원 등록·조회, AI 분류 및 답변 초안 생성, 결정례 검색<br/>PostgreSQL 기반 데이터 관리와 Ollama 임베딩을 활용한 검색 흐름 구현 | Java, Spring MVC, Gradle, React, PostgreSQL, Ollama, Apache Tomcat |
 | **[PetPalace](https://github.com/kimkale12/petpalace)** | 반려동물 호텔 예약·결제 웹 서비스<br/>`개인` | **기획 · 화면 · API · DB 개발**<br/>JWT 인증·인가, Toss Payments 연동, 관리자 예약·매출 조회<br/>예약 날짜 검증 및 결제 준비 실패 시 예외 처리 | Vue 3, Pinia, Node.js, Express, PostgreSQL, Sequelize |
 | **[CGI_MOA](https://github.com/Jenny5789/CGI_MOA)** | 생성형 이미지 합성 결과를 평가하고 관리하는 웹 서비스<br/>`팀` | **합성 결과 평가 기준 탐색 · API 검증**<br/>Bruno 기반 GET·POST 테스트, 요청·응답 확인, 테스트 시나리오와 이슈 공유 | JavaScript, REST API, Bruno, GitHub |
 
