@@ -2,7 +2,7 @@
 
 # 안녕하세요, 김기욱입니다 👋
 
-### 데이터를 서비스 기능으로 연결하는 개발자
+### AI를 활용하고, 코드와 동작을 직접 검증하는 백엔드 개발자
 
 <a href="mailto:dnr0409@nate.com"><img alt="Email-dnr0409@nate.com" src="https://img.shields.io/badge/Email--dnr0409%40nate.com-1C7293?style=flat-square"/></a>
 <img alt="Backend / Computer Vision" src="https://img.shields.io/badge/Backend%20%2F%20Computer%20Vision-1B2A4A?style=flat-square"/>
